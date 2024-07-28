@@ -1,4 +1,6 @@
-## Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
+## Coursera IBM  final project
 
-### Authors
-Ala Gowtham Siva Kumar
+Getting started with Git and Github final project:
+
+
+
